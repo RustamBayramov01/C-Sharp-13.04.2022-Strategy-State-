@@ -1,0 +1,15 @@
+C:\Users\LITHIUM\Desktop\Yeni klasör\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\Strategy.exe
+C:\Users\LITHIUM\Desktop\Yeni klasör\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\Strategy.deps.json
+C:\Users\LITHIUM\Desktop\Yeni klasör\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\Strategy.runtimeconfig.json
+C:\Users\LITHIUM\Desktop\Yeni klasör\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\Strategy.runtimeconfig.dev.json
+C:\Users\LITHIUM\Desktop\Yeni klasör\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\Strategy.dll
+C:\Users\LITHIUM\Desktop\Yeni klasör\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ref\Strategy.dll
+C:\Users\LITHIUM\Desktop\Yeni klasör\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\Strategy.pdb
+C:\Users\LITHIUM\Desktop\Yeni klasör\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\Strategy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LITHIUM\Desktop\Yeni klasör\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\Strategy.AssemblyInfoInputs.cache
+C:\Users\LITHIUM\Desktop\Yeni klasör\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\Strategy.AssemblyInfo.cs
+C:\Users\LITHIUM\Desktop\Yeni klasör\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\Strategy.csproj.CoreCompileInputs.cache
+C:\Users\LITHIUM\Desktop\Yeni klasör\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\Strategy.dll
+C:\Users\LITHIUM\Desktop\Yeni klasör\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ref\Strategy.dll
+C:\Users\LITHIUM\Desktop\Yeni klasör\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\Strategy.pdb
+C:\Users\LITHIUM\Desktop\Yeni klasör\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\Strategy.genruntimeconfig.cache

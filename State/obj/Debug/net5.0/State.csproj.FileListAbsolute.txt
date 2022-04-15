@@ -1,0 +1,15 @@
+C:\Users\LITHIUM\Desktop\Yeni klasör\ConsoleApp1\State\bin\Debug\net5.0\State.exe
+C:\Users\LITHIUM\Desktop\Yeni klasör\ConsoleApp1\State\bin\Debug\net5.0\State.deps.json
+C:\Users\LITHIUM\Desktop\Yeni klasör\ConsoleApp1\State\bin\Debug\net5.0\State.runtimeconfig.json
+C:\Users\LITHIUM\Desktop\Yeni klasör\ConsoleApp1\State\bin\Debug\net5.0\State.runtimeconfig.dev.json
+C:\Users\LITHIUM\Desktop\Yeni klasör\ConsoleApp1\State\bin\Debug\net5.0\State.dll
+C:\Users\LITHIUM\Desktop\Yeni klasör\ConsoleApp1\State\bin\Debug\net5.0\ref\State.dll
+C:\Users\LITHIUM\Desktop\Yeni klasör\ConsoleApp1\State\bin\Debug\net5.0\State.pdb
+C:\Users\LITHIUM\Desktop\Yeni klasör\ConsoleApp1\State\obj\Debug\net5.0\State.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LITHIUM\Desktop\Yeni klasör\ConsoleApp1\State\obj\Debug\net5.0\State.AssemblyInfoInputs.cache
+C:\Users\LITHIUM\Desktop\Yeni klasör\ConsoleApp1\State\obj\Debug\net5.0\State.AssemblyInfo.cs
+C:\Users\LITHIUM\Desktop\Yeni klasör\ConsoleApp1\State\obj\Debug\net5.0\State.csproj.CoreCompileInputs.cache
+C:\Users\LITHIUM\Desktop\Yeni klasör\ConsoleApp1\State\obj\Debug\net5.0\State.dll
+C:\Users\LITHIUM\Desktop\Yeni klasör\ConsoleApp1\State\obj\Debug\net5.0\ref\State.dll
+C:\Users\LITHIUM\Desktop\Yeni klasör\ConsoleApp1\State\obj\Debug\net5.0\State.pdb
+C:\Users\LITHIUM\Desktop\Yeni klasör\ConsoleApp1\State\obj\Debug\net5.0\State.genruntimeconfig.cache

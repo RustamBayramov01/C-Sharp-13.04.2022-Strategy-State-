@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HVpTLGAmTbBreB0ODk1p6tyt4LOH8jHDLWS8vsWAkpUa0eV6NHLbfnJ3mH/HW5bJ9JikaKbJf5R2BLjKLOCYQw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LITHIUM\\Desktop\\Yeni klasör\\ConsoleApp1\\ConsoleApp1\\Strategy.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LITHIUM\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
